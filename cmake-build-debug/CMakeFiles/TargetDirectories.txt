@@ -1,0 +1,3 @@
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/cmake-build-debug/CMakeFiles/EdgeDetector.dir
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
