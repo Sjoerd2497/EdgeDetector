@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector"
+CMAKE_SOURCE_DIR = C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/EdgeDetector.dir/depend.make
@@ -71,44 +71,44 @@ include CMakeFiles/EdgeDetector.dir/flags.make
 CMakeFiles/EdgeDetector.dir/main.cpp.obj: CMakeFiles/EdgeDetector.dir/flags.make
 CMakeFiles/EdgeDetector.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/EdgeDetector.dir/main.cpp.obj: CMakeFiles/EdgeDetector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EdgeDetector.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/main.cpp.obj -MF CMakeFiles\EdgeDetector.dir\main.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\main.cpp.obj -c "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/EdgeDetector.dir/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/main.cpp.obj -MF CMakeFiles\EdgeDetector.dir\main.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\main.cpp.obj -c C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\main.cpp
 
 CMakeFiles/EdgeDetector.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EdgeDetector.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\main.cpp" > CMakeFiles\EdgeDetector.dir\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\main.cpp > CMakeFiles\EdgeDetector.dir\main.cpp.i
 
 CMakeFiles/EdgeDetector.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EdgeDetector.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\main.cpp" -o CMakeFiles\EdgeDetector.dir\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\main.cpp -o CMakeFiles\EdgeDetector.dir\main.cpp.s
 
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj: CMakeFiles/EdgeDetector.dir/flags.make
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj: ../Matrix.cpp
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj: CMakeFiles/EdgeDetector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj -MF CMakeFiles\EdgeDetector.dir\Matrix.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\Matrix.cpp.obj -c "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Matrix.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj -MF CMakeFiles\EdgeDetector.dir\Matrix.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\Matrix.cpp.obj -c C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.cpp
 
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EdgeDetector.dir/Matrix.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Matrix.cpp" > CMakeFiles\EdgeDetector.dir\Matrix.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.cpp > CMakeFiles\EdgeDetector.dir\Matrix.cpp.i
 
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EdgeDetector.dir/Matrix.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Matrix.cpp" -o CMakeFiles\EdgeDetector.dir\Matrix.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.cpp -o CMakeFiles\EdgeDetector.dir\Matrix.cpp.s
 
 CMakeFiles/EdgeDetector.dir/Image.cpp.obj: CMakeFiles/EdgeDetector.dir/flags.make
 CMakeFiles/EdgeDetector.dir/Image.cpp.obj: ../Image.cpp
 CMakeFiles/EdgeDetector.dir/Image.cpp.obj: CMakeFiles/EdgeDetector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EdgeDetector.dir/Image.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/Image.cpp.obj -MF CMakeFiles\EdgeDetector.dir\Image.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\Image.cpp.obj -c "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Image.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/EdgeDetector.dir/Image.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/EdgeDetector.dir/Image.cpp.obj -MF CMakeFiles\EdgeDetector.dir\Image.cpp.obj.d -o CMakeFiles\EdgeDetector.dir\Image.cpp.obj -c C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Image.cpp
 
 CMakeFiles/EdgeDetector.dir/Image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/EdgeDetector.dir/Image.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Image.cpp" > CMakeFiles\EdgeDetector.dir\Image.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Image.cpp > CMakeFiles\EdgeDetector.dir\Image.cpp.i
 
 CMakeFiles/EdgeDetector.dir/Image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/EdgeDetector.dir/Image.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\Image.cpp" -o CMakeFiles\EdgeDetector.dir\Image.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Image.cpp -o CMakeFiles\EdgeDetector.dir\Image.cpp.s
 
 # Object files for target EdgeDetector
 EdgeDetector_OBJECTS = \
@@ -126,7 +126,7 @@ EdgeDetector.exe: CMakeFiles/EdgeDetector.dir/build.make
 EdgeDetector.exe: CMakeFiles/EdgeDetector.dir/linklibs.rsp
 EdgeDetector.exe: CMakeFiles/EdgeDetector.dir/objects1.rsp
 EdgeDetector.exe: CMakeFiles/EdgeDetector.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EdgeDetector.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable EdgeDetector.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\EdgeDetector.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/EdgeDetector.dir/clean:
 .PHONY : CMakeFiles/EdgeDetector.dir/clean
 
 CMakeFiles/EdgeDetector.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector" "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector" "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug" "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug" "G:\OneDrive\[Master]\Programming in Engineering\EdgeDetector\cmake-build-debug\CMakeFiles\EdgeDetector.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\cmake-build-debug\CMakeFiles\EdgeDetector.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/EdgeDetector.dir/depend
 

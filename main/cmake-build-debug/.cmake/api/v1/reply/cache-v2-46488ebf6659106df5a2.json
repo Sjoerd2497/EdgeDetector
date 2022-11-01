@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "g:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug"
+			"value" : "c:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector"
+			"value" : "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1327,7 +1327,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug"
+			"value" : "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug"
 		},
 		{
 			"name" : "EdgeDetector_IS_TOP_LEVEL",
@@ -1351,7 +1351,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector"
+			"value" : "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main"
 		}
 	],
 	"kind" : "cache",

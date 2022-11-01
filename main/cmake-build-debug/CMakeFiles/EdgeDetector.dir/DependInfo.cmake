@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/Image.cpp" "CMakeFiles/EdgeDetector.dir/Image.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/Image.cpp.obj.d"
-  "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/Matrix.cpp" "CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj.d"
-  "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/main.cpp" "CMakeFiles/EdgeDetector.dir/main.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/main.cpp.obj.d"
+  "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/Image.cpp" "CMakeFiles/EdgeDetector.dir/Image.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/Image.cpp.obj.d"
+  "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/Matrix.cpp" "CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj.d"
+  "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/main.cpp" "CMakeFiles/EdgeDetector.dir/main.cpp.obj" "gcc" "CMakeFiles/EdgeDetector.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug",
-		"source" : "G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector"
+		"build" : "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug",
+		"source" : "C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main"
 	},
 	"version" : 
 	{

@@ -1,5 +1,5 @@
 CMakeFiles/EdgeDetector.dir/Image.cpp.obj: \
- G:\OneDrive\[Master]\Programming\ in\ Engineering\EdgeDetector\Image.cpp \
+ C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Image.cpp \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -134,8 +134,8 @@ CMakeFiles/EdgeDetector.dir/Image.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/x86_64-w64-mingw32/include/math.h \
- G:\OneDrive\[Master]\Programming\ in\ Engineering\EdgeDetector\Image.h \
- G:\OneDrive\[Master]\Programming\ in\ Engineering\EdgeDetector\Matrix.h \
+ C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Image.h \
+ C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \

@@ -1,6 +1,6 @@
 CMakeFiles/EdgeDetector.dir/Matrix.cpp.obj: \
- G:\OneDrive\[Master]\Programming\ in\ Engineering\EdgeDetector\Matrix.cpp \
- G:\OneDrive\[Master]\Programming\ in\ Engineering\EdgeDetector\Matrix.h \
+ C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.cpp \
+ C:\Users\Sjoerd\Documents\GitHub\EdgeDetector\main\Matrix.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \

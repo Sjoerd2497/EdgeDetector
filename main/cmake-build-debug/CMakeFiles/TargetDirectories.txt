@@ -1,3 +1,3 @@
-G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug/CMakeFiles/EdgeDetector.dir
-G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/OneDrive/[Master]/Programming in Engineering/EdgeDetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug/CMakeFiles/EdgeDetector.dir
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sjoerd/Documents/GitHub/EdgeDetector/main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
